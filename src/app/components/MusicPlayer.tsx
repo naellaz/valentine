@@ -14,7 +14,7 @@ export function MusicPlayer() {
     artist: "Daniel Caesar & H.E.R.",
     // Replace this URL with your own music file
     // You can host an MP3 file or use a URL to a romantic song
-    src: "bestpart.mp3" // Placeholder - replace with actual music
+    src: "/music/bestpart.mp3" // Placeholder - replace with actual music
   };
 
   const togglePlay = () => {

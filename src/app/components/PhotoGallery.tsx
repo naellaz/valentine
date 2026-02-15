@@ -5,27 +5,27 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 
 const photos = [
   {
-    url: 'nglanggeran.jpeg',
+    url: '/images/nglanggeran.jpeg',
     caption: 'Nglanggeran With You',
   },
   {
-    url: 'the-day.jpeg',
+    url: '/images/the-day.jpeg',
     caption: 'One Day, or Day One?',
   },
   {
-    url: 'pantai.jpeg',
+    url: '/images/pantai.jpeg',
     caption: 'When Everyone Noticed',
   },
   {
-    url: 'sija.jpeg',
+    url: '/images/sija.jpeg',
     caption: 'Cute Photos',
   },
   {
-    url: 'photobooth.jpeg',
+    url: '/images/photobooth.jpeg',
     caption: 'After Keraton Walk',
   },
   {
-    url: 'andong.jpeg',
+    url: '/images/andong.jpeg',
     caption: 'Climbing Andong at Valentine\'s Day',
   },
 ];
